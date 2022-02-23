@@ -1,16 +1,17 @@
-### Hi there 👋
+## ## Renan de Luca Machado, Front-end Developer💻💻
 
-<!--
-**RenanLuca/RenanLuca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
+- 🔭 Atualmente Estudo Análise e Desenvolvimento de Sistemas e atuo como estagiário na <a href="http://mage2.com.br">Mage2</a>
+- 🏠 Moro em Sorocaba, SP - Brasil 🇧🇷
+- 🖥 Atuando na área há cerca de 1 ano e um admirador de tecnologia desde sempre
 
-Here are some ideas to get you started:
+### Hard Skils
+- 🔌 <b>Front-end:</b> HTML, CSS, JavaScript
+- 💾 <b>Banco de Dados:</b> MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- 📞 +55 (15) 996909581
+
+### Find Me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/matheus-carvalho-83a68016a/)](https://www.linkedin.com/in/renandeluca/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:matheus.santos.hcs@gmail.com)](mailto:renandelucamachado32@gmail.com)
