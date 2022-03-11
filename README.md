@@ -5,7 +5,7 @@
 - 🏠 Moro em Sorocaba, SP - Brasil 🇧🇷
 - 🖥 Atuando na área há cerca de 1 ano e um admirador de tecnologia desde sempre
 
-### Hard Skils
+### Hard Skills
 - 🔌 <b>Front-end:</b> HTML, CSS, JavaScript
 - 💾 <b>Banco de Dados:</b> MySQL
 
