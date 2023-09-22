@@ -1,7 +1,7 @@
 ## ## Renan de Luca Machado, Front-end Developer💻💻
 
 ### Sobre mim
-- 🔭 Atualmente Estudo Análise e Desenvolvimento de Sistemas e atuo como estagiário na <a href="http://mage2.com.br">Mage2</a>
+- 🔭 Atualmente Estudo Análise e Desenvolvimento de Sistemas
 - 🏠 Moro em Sorocaba, SP - Brasil 🇧🇷
 - 🖥 Atuando na área há cerca de 1 ano e um admirador de tecnologia desde sempre
 
