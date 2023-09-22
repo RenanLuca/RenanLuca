@@ -6,7 +6,7 @@
 - 🖥 Atuando na área há cerca de 1 ano e um admirador de tecnologia desde sempre
 
 ### Hard Skills
-- 🔌 <b>Linguagens e Frameworks:</b> JavaScript, React, ionic, Nodejs, PHP, TypeScript;
+- 🔌 <b>Linguagens e Frameworks:</b> React, JavaScript, TypeScript, ionic, Nodejs, PHP;
 - 💾 <b>Banco de Dados:</b> MySQL
 - ✒  <b>Marcação e Estilo:</b> HTML5, CSS3, Bootstrap, Tailwind;
 
