@@ -6,8 +6,9 @@
 - 🖥 Atuando na área há cerca de 1 ano e um admirador de tecnologia desde sempre
 
 ### Hard Skills
-- 🔌 <b>Front-end:</b> HTML, CSS, JavaScript
+- 🔌 <b>Linguagens e Frameworks:</b> JavaScript, React, ionic, Nodejs, PHP, TypeScript;
 - 💾 <b>Banco de Dados:</b> MySQL
+- ✒  <b>Marcação e Estilo:</b> HTML5, CSS3, Bootstrap, Tailwind;
 
 ### Contato
 - 📞 +55 (15) 996909581
