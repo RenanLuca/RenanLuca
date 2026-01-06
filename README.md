@@ -1,4 +1,4 @@
-## Renan de Luca Machado, Front-end Developer 💻
+## Renan de Luca Machado, Software Engineer 💻
 
 ### About Me
 - 🎓 Bachelor’s degree in Systems Analysis and Development
