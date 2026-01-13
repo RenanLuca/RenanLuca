@@ -5,7 +5,6 @@
 - 🏠 Based in Sorocaba, São Paulo – Brazil 🇧🇷
 - 👨‍💻 Software engineer with over 4 years of professional experience
 - 🚀 Passionate about technology, digital products, and building great user experiences
-- 🌎 Currently improving my English to pursue international opportunities
 
 ### Hard Skills
 - 🔌 **Languages & Frameworks:** React, Next, JavaScript, TypeScript, Node.js, N8N, AI Automations
