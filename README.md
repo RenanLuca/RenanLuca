@@ -9,7 +9,7 @@
 ### Hard Skills
 - 🔌 **Languages & Frameworks:** React, Next, JavaScript, TypeScript, Node.js, N8N, AI Automations
 - 💾 **Databases:** MySQL, PostgreSQL
-- ✒ **Markup & Styling:** HTML5, CSS3, Bootstrap, Tailwind CSS, Shadcn
+- ✒ **Markup & Styling:** HTML5, CSS3, Tailwind CSS, Shadcn
 - ⚙ **Others:** API integrations, RESTful services, Git version control
 
 ### Contact
