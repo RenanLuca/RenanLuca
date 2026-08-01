@@ -1,16 +1,17 @@
 ## Renan de Luca Machado, Software Engineer 💻
 
 ### About Me
-- 🎓 Bachelor’s degree in Systems Analysis and Development
+- 🎓 Bachelor's degree in Systems Analysis and Development
 - 🏠 Based in Sorocaba, São Paulo – Brazil 🇧🇷
-- 👨‍💻 Software engineer with over 4 years of professional experience
+- 👨‍💻 Full-Stack developer with 3+ years of professional experience
 - 🚀 Passionate about technology, digital products, and building great user experiences
 
 ### Hard Skills
-- 🔌 **Languages & Frameworks:** React, Next, JavaScript, TypeScript, Node.js, N8N, AI Automations
-- 💾 **Databases:** MySQL, PostgreSQL
-- ✒ **Markup & Styling:** HTML5, CSS3, Tailwind CSS, Shadcn
-- ⚙ **Others:** API integrations, RESTful services, Git version control
+- 🎨 **Front-End:** React, Next.js, TypeScript, JavaScript, Zustand, TanStack Query, Tailwind CSS, Shadcn
+- 🔧 **Back-End:** Node.js, NestJS, Express, Prisma, GraphQL, REST APIs
+- 💾 **Databases:** PostgreSQL, MySQL, Redis
+- ✅ **Testing:** Jest, Cypress, Playwright
+- ⚙ **Automation & Tools:** n8n, AI-powered automations, Git
 
 ### Contact
 - 📍 Sorocaba – SP, Brazil
